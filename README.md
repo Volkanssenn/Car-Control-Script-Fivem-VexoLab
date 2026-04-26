@@ -1,5 +1,7 @@
 🚗 car-control (Advanced Vehicle iPad Interface)
 
+watch showcase video: https://www.youtube.com/channel/UCxujg1bzJsFIBlSouwF4UaA
+
 Elevate your FiveM server's driving experience with car-control, an all-in-one, sleek iPad-style interface designed for QBCore. This script provides players with intuitive control over their vehicles, featuring a groundbreaking synchronized audio system.
 ✨ Key Features
 
